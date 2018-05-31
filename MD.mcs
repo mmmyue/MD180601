@@ -1,0 +1,149 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=D:\Project\MWD\Released - RTC and WPR Record - 20170109b\MD - V2.2 - Release - No Gap - Debug\Obj\main.o
+Folder=Intermediary
+DeviceName=PIC24HJ128GP506A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)|.\Release||$(TMPDIR)|.\Obj||$(AINDIR)|C:\Program Files (x86)\Microchip\mplabc30\v3.25\support\PIC24H\inc||$(INCDIR)|.\Header;.\Source;C:\Program Files (x86)\Microchip\mplabc30\v3.25\include;C:\Program Files (x86)\Microchip\mplabc30\v3.25\support\peripheral_30F_24H_33F;C:\Program Files (x86)\Microchip\mplabc30\v3.25\support\PIC24H\h||$(LIBDIR)|C:\Program Files (x86)\Microchip\mplabc30\v3.25\support\PIC24H\gld;C:\Program Files (x86)\Microchip\mplabc30\v3.25\lib||$(LKRDIR)||
+SOLK=<src>|Source\main.c|Source\pwm.c|Source\tmr.c|Source\md_coding.c|Source\ecan.c|Source\spi.c|Source\adc506a.c|Source\mem.c|Source\delay.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=
+[File001]
+Location=D:\Project\MWD\Released - RTC and WPR Record - 20170109b\MD - V2.2 - Release - No Gap - Debug\Obj\pwm.o
+Folder=Intermediary
+DeviceName=PIC24HJ128GP506A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)|.\Release||$(TMPDIR)|.\Obj||$(AINDIR)|C:\Program Files (x86)\Microchip\mplabc30\v3.25\support\PIC24H\inc||$(INCDIR)|.\Header;.\Source;C:\Program Files (x86)\Microchip\mplabc30\v3.25\include;C:\Program Files (x86)\Microchip\mplabc30\v3.25\support\peripheral_30F_24H_33F;C:\Program Files (x86)\Microchip\mplabc30\v3.25\support\PIC24H\h||$(LIBDIR)|C:\Program Files (x86)\Microchip\mplabc30\v3.25\support\PIC24H\gld;C:\Program Files (x86)\Microchip\mplabc30\v3.25\lib||$(LKRDIR)||
+SOLK=<src>|Source\main.c|Source\pwm.c|Source\tmr.c|Source\md_coding.c|Source\ecan.c|Source\spi.c|Source\adc506a.c|Source\mem.c|Source\delay.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=
+[File002]
+Location=D:\Project\MWD\Released - RTC and WPR Record - 20170109b\MD - V2.2 - Release - No Gap - Debug\Obj\tmr.o
+Folder=Intermediary
+DeviceName=PIC24HJ128GP506A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)|.\Release||$(TMPDIR)|.\Obj||$(AINDIR)|C:\Program Files (x86)\Microchip\mplabc30\v3.25\support\PIC24H\inc||$(INCDIR)|.\Header;.\Source;C:\Program Files (x86)\Microchip\mplabc30\v3.25\include;C:\Program Files (x86)\Microchip\mplabc30\v3.25\support\peripheral_30F_24H_33F;C:\Program Files (x86)\Microchip\mplabc30\v3.25\support\PIC24H\h||$(LIBDIR)|C:\Program Files (x86)\Microchip\mplabc30\v3.25\support\PIC24H\gld;C:\Program Files (x86)\Microchip\mplabc30\v3.25\lib||$(LKRDIR)||
+SOLK=<src>|Source\main.c|Source\pwm.c|Source\tmr.c|Source\md_coding.c|Source\ecan.c|Source\spi.c|Source\adc506a.c|Source\mem.c|Source\delay.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=
+[File003]
+Location=D:\Project\MWD\Released - RTC and WPR Record - 20170109b\MD - V2.2 - Release - No Gap - Debug\Obj\md_coding.o
+Folder=Intermediary
+DeviceName=PIC24HJ128GP506A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)|.\Release||$(TMPDIR)|.\Obj||$(AINDIR)|C:\Program Files (x86)\Microchip\mplabc30\v3.25\support\PIC24H\inc||$(INCDIR)|.\Header;.\Source;C:\Program Files (x86)\Microchip\mplabc30\v3.25\include;C:\Program Files (x86)\Microchip\mplabc30\v3.25\support\peripheral_30F_24H_33F;C:\Program Files (x86)\Microchip\mplabc30\v3.25\support\PIC24H\h||$(LIBDIR)|C:\Program Files (x86)\Microchip\mplabc30\v3.25\support\PIC24H\gld;C:\Program Files (x86)\Microchip\mplabc30\v3.25\lib||$(LKRDIR)||
+SOLK=<src>|Source\main.c|Source\pwm.c|Source\tmr.c|Source\md_coding.c|Source\ecan.c|Source\spi.c|Source\adc506a.c|Source\mem.c|Source\delay.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=
+[File004]
+Location=D:\Project\MWD\Released - RTC and WPR Record - 20170109b\MD - V2.2 - Release - No Gap - Debug\Obj\ecan.o
+Folder=Intermediary
+DeviceName=PIC24HJ128GP506A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)|.\Release||$(TMPDIR)|.\Obj||$(AINDIR)|C:\Program Files (x86)\Microchip\mplabc30\v3.25\support\PIC24H\inc||$(INCDIR)|.\Header;.\Source;C:\Program Files (x86)\Microchip\mplabc30\v3.25\include;C:\Program Files (x86)\Microchip\mplabc30\v3.25\support\peripheral_30F_24H_33F;C:\Program Files (x86)\Microchip\mplabc30\v3.25\support\PIC24H\h||$(LIBDIR)|C:\Program Files (x86)\Microchip\mplabc30\v3.25\support\PIC24H\gld;C:\Program Files (x86)\Microchip\mplabc30\v3.25\lib||$(LKRDIR)||
+SOLK=<src>|Source\main.c|Source\pwm.c|Source\tmr.c|Source\md_coding.c|Source\ecan.c|Source\spi.c|Source\adc506a.c|Source\mem.c|Source\delay.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=
+[File005]
+Location=D:\Project\MWD\Released - RTC and WPR Record - 20170109b\MD - V2.2 - Release - No Gap - Debug\Obj\spi.o
+Folder=Intermediary
+DeviceName=PIC24HJ128GP506A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)|.\Release||$(TMPDIR)|.\Obj||$(AINDIR)|C:\Program Files (x86)\Microchip\mplabc30\v3.25\support\PIC24H\inc||$(INCDIR)|.\Header;.\Source;C:\Program Files (x86)\Microchip\mplabc30\v3.25\include;C:\Program Files (x86)\Microchip\mplabc30\v3.25\support\peripheral_30F_24H_33F;C:\Program Files (x86)\Microchip\mplabc30\v3.25\support\PIC24H\h||$(LIBDIR)|C:\Program Files (x86)\Microchip\mplabc30\v3.25\support\PIC24H\gld;C:\Program Files (x86)\Microchip\mplabc30\v3.25\lib||$(LKRDIR)||
+SOLK=<src>|Source\main.c|Source\pwm.c|Source\tmr.c|Source\md_coding.c|Source\ecan.c|Source\spi.c|Source\adc506a.c|Source\mem.c|Source\delay.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=
+[File006]
+Location=D:\Project\MWD\Released - RTC and WPR Record - 20170109b\MD - V2.2 - Release - No Gap - Debug\Obj\adc506a.o
+Folder=Intermediary
+DeviceName=PIC24HJ128GP506A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)|.\Release||$(TMPDIR)|.\Obj||$(AINDIR)|C:\Program Files (x86)\Microchip\mplabc30\v3.25\support\PIC24H\inc||$(INCDIR)|.\Header;.\Source;C:\Program Files (x86)\Microchip\mplabc30\v3.25\include;C:\Program Files (x86)\Microchip\mplabc30\v3.25\support\peripheral_30F_24H_33F;C:\Program Files (x86)\Microchip\mplabc30\v3.25\support\PIC24H\h||$(LIBDIR)|C:\Program Files (x86)\Microchip\mplabc30\v3.25\support\PIC24H\gld;C:\Program Files (x86)\Microchip\mplabc30\v3.25\lib||$(LKRDIR)||
+SOLK=<src>|Source\main.c|Source\pwm.c|Source\tmr.c|Source\md_coding.c|Source\ecan.c|Source\spi.c|Source\adc506a.c|Source\mem.c|Source\delay.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=
+[File007]
+Location=D:\Project\MWD\Released - RTC and WPR Record - 20170109b\MD - V2.2 - Release - No Gap - Debug\Obj\mem.o
+Folder=Intermediary
+DeviceName=PIC24HJ128GP506A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)|.\Release||$(TMPDIR)|.\Obj||$(AINDIR)|C:\Program Files (x86)\Microchip\mplabc30\v3.25\support\PIC24H\inc||$(INCDIR)|.\Header;.\Source;C:\Program Files (x86)\Microchip\mplabc30\v3.25\include;C:\Program Files (x86)\Microchip\mplabc30\v3.25\support\peripheral_30F_24H_33F;C:\Program Files (x86)\Microchip\mplabc30\v3.25\support\PIC24H\h||$(LIBDIR)|C:\Program Files (x86)\Microchip\mplabc30\v3.25\support\PIC24H\gld;C:\Program Files (x86)\Microchip\mplabc30\v3.25\lib||$(LKRDIR)||
+SOLK=<src>|Source\main.c|Source\pwm.c|Source\tmr.c|Source\md_coding.c|Source\ecan.c|Source\spi.c|Source\adc506a.c|Source\mem.c|Source\delay.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=
+[File008]
+Location=D:\Project\MWD\Released - RTC and WPR Record - 20170109b\MD - V2.2 - Release - No Gap - Debug\Obj\delay.o
+Folder=Intermediary
+DeviceName=PIC24HJ128GP506A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)|.\Release||$(TMPDIR)|.\Obj||$(AINDIR)|C:\Program Files (x86)\Microchip\mplabc30\v3.25\support\PIC24H\inc||$(INCDIR)|.\Header;.\Source;C:\Program Files (x86)\Microchip\mplabc30\v3.25\include;C:\Program Files (x86)\Microchip\mplabc30\v3.25\support\peripheral_30F_24H_33F;C:\Program Files (x86)\Microchip\mplabc30\v3.25\support\PIC24H\h||$(LIBDIR)|C:\Program Files (x86)\Microchip\mplabc30\v3.25\support\PIC24H\gld;C:\Program Files (x86)\Microchip\mplabc30\v3.25\lib||$(LKRDIR)||
+SOLK=<src>|Source\main.c|Source\pwm.c|Source\tmr.c|Source\md_coding.c|Source\ecan.c|Source\spi.c|Source\adc506a.c|Source\mem.c|Source\delay.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=
+[File009]
+Location=D:\Project\MWD\Released - RTC and WPR Record - 20170109b\MD - V2.2 - Release - No Gap - Debug\.\Release\MD.cof
+Folder=Output
+DeviceName=PIC24HJ128GP506A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={433C3D55-811D-409D-A6BF-159CF9355B42}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-ld.exe
+PPAD=$(BINDIR)|.\Release||$(TMPDIR)|.\Obj||$(AINDIR)|C:\Program Files (x86)\Microchip\mplabc30\v3.25\support\PIC24H\inc||$(INCDIR)|.\Header;.\Source;C:\Program Files (x86)\Microchip\mplabc30\v3.25\include;C:\Program Files (x86)\Microchip\mplabc30\v3.25\support\peripheral_30F_24H_33F;C:\Program Files (x86)\Microchip\mplabc30\v3.25\support\PIC24H\h||$(LIBDIR)|C:\Program Files (x86)\Microchip\mplabc30\v3.25\support\PIC24H\gld;C:\Program Files (x86)\Microchip\mplabc30\v3.25\lib||$(LKRDIR)||
+SOLK=<src>|Source\main.c|Source\pwm.c|Source\tmr.c|Source\md_coding.c|Source\ecan.c|Source\spi.c|Source\adc506a.c|Source\mem.c|Source\delay.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)" -Map="$(BINDIR_)$(TARGETBASE).map" --report-mem
+TraceCmdString=
+DebugOptions=
+[File010]
+Location=D:\Project\MWD\Released - RTC and WPR Record - 20170109b\MD - V2.2 - Release - No Gap - Debug\.\Release\MD.hex
+Folder=Output
+DeviceName=PIC24HJ128GP506A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={433C3D55-811D-409D-A6BF-159CF9355B42}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-ld.exe
+PPAD=$(BINDIR)|.\Release||$(TMPDIR)|.\Obj||$(AINDIR)|C:\Program Files (x86)\Microchip\mplabc30\v3.25\support\PIC24H\inc||$(INCDIR)|.\Header;.\Source;C:\Program Files (x86)\Microchip\mplabc30\v3.25\include;C:\Program Files (x86)\Microchip\mplabc30\v3.25\support\peripheral_30F_24H_33F;C:\Program Files (x86)\Microchip\mplabc30\v3.25\support\PIC24H\h||$(LIBDIR)|C:\Program Files (x86)\Microchip\mplabc30\v3.25\support\PIC24H\gld;C:\Program Files (x86)\Microchip\mplabc30\v3.25\lib||$(LKRDIR)||
+SOLK=<src>|Source\main.c|Source\pwm.c|Source\tmr.c|Source\md_coding.c|Source\ecan.c|Source\spi.c|Source\adc506a.c|Source\mem.c|Source\delay.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)" -Map="$(BINDIR_)$(TARGETBASE).map" --report-mem
+TraceCmdString=
+DebugOptions=
+[TOOL_LOC_STAMPS]
+tool_loc{069BD372-6CA0-40D4-BF2F-5DC806D05083}=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+tool_loc{433C3D55-811D-409D-A6BF-159CF9355B42}=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-ld.exe
